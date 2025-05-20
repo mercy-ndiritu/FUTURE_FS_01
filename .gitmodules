@@ -1,0 +1,6 @@
+[submodule "my-portfolio"]
+	path = my-portfolio
+	url = https://github.com/mercy-ndiritu/portfolio-frontend.git
+[submodule "server"]
+	path = server
+	url = https://github.com/mercy-ndiritu/portfolio-backend.git
